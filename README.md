@@ -34,11 +34,11 @@ I am **Ezz abuzaid** an Experienced **Software engineer** working for **@ Equiti
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-form-factory'>Ngx-Form-Factory</a></td>
-      <td>Angular package to build complex forms from json without the need to write any markup boilerplate</td>
+      <td>Angular package to build complex forms without the need to write any markup boilerplate</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/document-storage'>Document storage</a></td>
-      <td>Javascript package that provides a unified interface for blocking and nonblocking storages includeing browser storages</td>
+      <td>Javascript package that provides a unified interface for blocking and non-blocking storages including browser storages</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/form-validators'>Flutter Form validators</a></td>
