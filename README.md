@@ -29,6 +29,10 @@ I'm **Ezz abuzaid** an Experienced **Software engineer** working **@ Equiti Grou
       <td>Production ready Angular boilerplate</td>
     </tr>
     <tr>
+      <td><a href='https://github.com/ezzabuzaid/angular_auth_rd'>Angular/Node Authentication/Authorization Using JWT</a></td>
+      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-request-options'>Ngx-Request-Options</a></td>
       <td>Angular package that make passing properties to interceptors easier</td>
     </tr>
@@ -43,6 +47,10 @@ I'm **Ezz abuzaid** an Experienced **Software engineer** working **@ Equiti Grou
     <tr>
       <td><a href='https://github.com/ezzabuzaid/form-validators'>Flutter Form validators</a></td>
       <td>A set of predefined validators that makes field validation straightforward</td>
+    </tr>
+    <tr>
+      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application</a></td>
+      <td>Clone of Messenger application using Angular and PWA techniques</td>
     </tr>
   </tbody>
 </table>
