@@ -56,6 +56,10 @@ I'm **Ezz abuzaid** an Experienced **Software engineer** working **@ Equiti Grou
 </table>
 
 
+You might read
+* [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
+* [Angular Caching]()
+
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/ezzabuzaid/) 
 - [Stackoverflow](https://stackoverflow.com/story/ezzabuzaid) 
