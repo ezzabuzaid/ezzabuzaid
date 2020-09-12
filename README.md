@@ -42,7 +42,7 @@ I'm **Ezz abuzaid** an Experienced **Software engineer** working **@ Equiti Grou
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/document-storage'>Document storage</a></td>
-      <td>Javascript package that provides a unified interface for blocking and non-blocking storages including browser storages</td>
+      <td>Javascript package that provides a unified interface for browser storages</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/form-validators'>Flutter Form validators</a></td>
