@@ -1,12 +1,12 @@
 ### Hi there 👋
-I'm **Ezz abuzaid** an Experienced **Software engineer** working **@ Equiti Group** with a demonstrated history of working in the information technology and services industry. **Skilled in Javascript frameworks including Angular and NodeJS, C#/.NetCore and mobile developemnt using Dart/Flutter.**
+I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Group** with a demonstrated history of working in the information technology and services industry. **Skilled in Javascript frameworks including Angular and NodeJS, C#/.NetCore and mobile developemnt using Dart/Flutter.**
 
 **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!** 😊
 
 ---
 
 - 🔭 I’m currently working as **Software Engineer @ Equiti Group**
-- 🌱 I’m currently learning **The Backend things**
+- 🌱 I’m currently learning **Microservices Architecture**
 - 👯 I’m ready to collaborate on open source/commercial projects
 - 💬 Ask me about **Web/Mobile Development**
 
