@@ -30,7 +30,7 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/angular_auth_rd'>Angular/Node Authentication/Authorization Using JWT</a></td>
-      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc</td>
+      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc (Under Development)</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-request-options'>Ngx-Request-Options</a></td>
@@ -49,7 +49,7 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
       <td>A set of predefined validators that makes field validation straightforward</td>
     </tr>
     <tr>
-      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application</a></td>
+      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application (Under Development)</a></td>
       <td>Clone of Messenger application using Angular and PWA techniques</td>
     </tr>
   </tbody>
@@ -59,6 +59,7 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
 You might read
 * [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
 * [Angular Caching](https://dev.to/ezzabuzaid/angular-api-caching-2p12)
+* [JavaScript Compute like in Dart](https://dev.to/ezzabuzaid/javascript-dart-compute-2k2f)
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/ezzabuzaid/) 
