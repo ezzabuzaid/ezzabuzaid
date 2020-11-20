@@ -49,8 +49,8 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
       <td>A set of predefined validators that makes field validation straightforward</td>
     </tr>
     <tr>
-      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application (Under Development)</a></td>
-      <td>Clone of Messenger application using Angular and PWA techniques</td>
+      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application</a></td>
+      <td>Clone of Messenger application using Angular and PWA techniques (Under Development)</td>
     </tr>
   </tbody>
 </table>
