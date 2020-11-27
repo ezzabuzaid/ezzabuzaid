@@ -29,10 +29,6 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
       <td>Production ready Angular boilerplate</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/ezzabuzaid/angular_auth_rd'>Angular/Node Authentication/Authorization Using JWT</a></td>
-      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc (Under Development)</td>
-    </tr>
-    <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-request-options'>Ngx-Request-Options</a></td>
       <td>Angular package that make passing properties to interceptors easier</td>
     </tr>
@@ -49,8 +45,12 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
       <td>A set of predefined validators that makes field validation straightforward</td>
     </tr>
     <tr>
-      <td><a href='ezzabuzaid/facebook-chat'>Desktop Facebook Messenger clone as Web Application</a></td>
+      <td><a href='ezzabuzaid/facebook-chat'>Chatting app using Webrtc</a></td>
       <td>Clone of Messenger application using Angular and PWA techniques (Under Development)</td>
+    <tr>
+      <td><a href='https://github.com/ezzabuzaid/angular_auth_rd'>.NetCore Identity like for Node.js</a></td>
+      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc (Under Development)</td>
+    </tr>
     </tr>
   </tbody>
 </table>
