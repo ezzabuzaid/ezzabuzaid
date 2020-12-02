@@ -71,6 +71,7 @@ You might read
 * [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
 * [Angular Caching](https://dev.to/ezzabuzaid/angular-api-caching-2p12)
 * [JavaScript Compute like in Dart](https://dev.to/ezzabuzaid/javascript-dart-compute-2k2f)
+* [My Gists](https://gist.github.com/ezzabuzaid)
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/ezzabuzaid/) 
