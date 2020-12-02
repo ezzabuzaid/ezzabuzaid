@@ -1,14 +1,33 @@
 ### Hi there 👋
-I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Group** with a demonstrated history of working in the information technology and services industry. **Skilled in Javascript frameworks including Angular and NodeJS, C#/.NetCore and Mobile developemnt using Dart/Flutter.**
 
-**I love connecting with different people so if you want to say hi, I'll be happy to meet you more!** 😊
-**Any feedback is welcome :)**
----
+I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-- 🔭 I’m currently working as **Software Engineer @ Equiti Group**
-- 🌱 I’m currently learning **Microservices Architecture**
-- 👯 I’m ready to collaborate on open source/commercial projects
-- 💬 Ask me about **Web/Mobile Development**
+My area of Experience in Web/Mobile development, and here's a list of things I'm dealing with from day to day
+* Languages: JavaScript(TypeScript), C# and Dart
+* Back End
+  1. Frameworks: Node.js(Express) and .NetCore, EntityFramework
+  2. Databases and ORMs: MySql with Typeorm, SQL Server with EntityFramework and Mongodb with Mongoose
+  3. Test: Jest with Node.js and xUnit with .NetCore
+  4. Other Tools: Rx.Net, Mediator
+* Front End
+  1. Frameworks: Typescript, Angular and a basic React knowledge
+  2. Test: Jasmine and Karma 
+  2. Other Tools: RxJs, Firebase, SCSS, Material design
+* Mobile
+  1. Dart-Flutter, [Rx.Dart](https://pub.dev/packages/rxdart), [Provider state management](https://pub.dev/packages/provider), Firebase, SQLite
+  3. Test: Dart-Test, Mockito
+  
+* Task Management: Jira and Microsoft DevOps
+* Cloud: Azure
+* Source Control: Github, Microsoft DevOps and BitBucket 
+
+**And I'm**
+
+- 🔭 Currently working as **Software Engineer @Equiti Group**
+- 🌱 Currently learning **Microservices Architecture**
+- 📚 Currently Reading **.NetCore Microservices Architecture for Containerized .NetCore Applications** and looking at **Practical Recommender Systems** by Kim Falk
+- 👯 Ready to collaborate on open source/commercial projects
+- 💬 Here to ask me anything about **Web/Mobile Development**
 
 
 <summary><b> My Projects: </b></summary>
@@ -43,14 +62,6 @@ I'm **Ezz abuzaid** an Experienced **Software Engineer** working **@ Equiti Grou
     <tr>
       <td><a href='https://github.com/ezzabuzaid/form-validators'>Flutter Form validators</a></td>
       <td>A set of predefined validators that makes field validation straightforward</td>
-    </tr>
-    <tr>
-      <td><a href='ezzabuzaid/facebook-chat'>Chatting app using Webrtc</a></td>
-      <td>Clone of Messenger application using Angular and PWA techniques (Under Development)</td>
-    <tr>
-      <td><a href='https://github.com/ezzabuzaid/angular_auth_rd'>.NetCore Identity like for Node.js</a></td>
-      <td>Simple implementation for API security methods like refresh token, two factor authentication ...etc (Under Development)</td>
-    </tr>
     </tr>
   </tbody>
 </table>
