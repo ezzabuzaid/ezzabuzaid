@@ -5,7 +5,7 @@ I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by
 My area of Experience in Web/Mobile development, and here's a list of things I'm dealing with from day to day
 * Languages: JavaScript(TypeScript), C# and Dart
 * Back End
-  1. Frameworks: Node.js(Express) and .NetCore, EntityFramework
+  1. Frameworks: Node.js(Express) and .NetCore
   2. Databases and ORMs: MySql with Typeorm, SQL Server with EntityFramework and Mongodb with Mongoose
   3. Test: Jest with Node.js and xUnit with .NetCore
   4. Other Tools: Rx.Net, Mediator
