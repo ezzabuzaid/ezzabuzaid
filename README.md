@@ -69,6 +69,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
 
 
 You might read
+* [A Gentel Introduction to Dart Test](https://github.com/ezzabuzaid/Flutter-Dart-Test-Session/blob/main/test_session.pdf)
 * [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
 * [Angular Caching](https://dev.to/ezzabuzaid/angular-api-caching-2p12)
 * [JavaScript Compute like in Dart](https://dev.to/ezzabuzaid/javascript-dart-compute-2k2f)
