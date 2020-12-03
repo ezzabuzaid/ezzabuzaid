@@ -2,7 +2,7 @@
 
 I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-My areas of Experience in Web and Mobile development, using those technologies that I'm dealing in a daily basis.
+My areas of Experience in Web and Mobile development, using those technologies that I'm dealing with in a daily basis.
 
 * Languages: JavaScript(TypeScript), C# and Dart
 * Back End
