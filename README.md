@@ -50,7 +50,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-request-options'>Ngx-Request-Options</a></td>
-      <td>Angular package that make passing properties to interceptors easier</td>
+      <td>Angular package that make passing properties to interceptors possible</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-form-factory'>Ngx-Form-Factory</a></td>
