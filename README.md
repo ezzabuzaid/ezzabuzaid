@@ -68,6 +68,10 @@ My areas of Experience in Web and Mobile development, using those technologies t
       <td><a href='https://repl.it/join/cplrwnea-ezzabuzaid1'>C# class to ProtoBuf</a></td>
       <td>If you're moving from Monolithic to Microservices, you need to convert your models</td>
     </tr>
+    <tr>
+      <td><a href='https://repl.it/@EzzAbuzaid1/Docker-Compose-Keys-To-JsonObject'>Docker Compose environment variable to Json Object</a></td>
+      <td>Converting compose environment varaibles to Json object for app.settings</td>
+    </tr>
   </tbody>
 </table>
 
