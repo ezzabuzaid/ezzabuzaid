@@ -9,7 +9,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
   1. Frameworks: Node.js(Express) and .NetCore
   2. Databases and ORMs: MySql with Typeorm, SQL Server with EntityFramework and MongoDB with Mongoose
   3. Test: Jest with Node.js and xUnit with .NetCore
-  4. Other Tools: Rx.Net, Mediator, Socket.io and SignalR
+  4. Other Tools: Rx.Net, Mediator
 * Front End
   1. Frameworks: Typescript, Angular and a basic React knowledge
   2. Test: Jasmine and Karma 
