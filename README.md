@@ -41,7 +41,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/ezzabuzaid/node-buildozer'>Node Buildozer</a></td>
+      <td><a href='https://github.com/ezzabuzaid/fayona'>Fayona</a></td>
       <td>A .NetCore like framework using NodeJs</td>
     </tr>
     <tr>
