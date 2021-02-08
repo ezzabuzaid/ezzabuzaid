@@ -6,7 +6,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
 
 * Languages: JavaScript(TypeScript), C# and Dart
 * Back End
-  1. Frameworks: Node.js(Express) and .NetCore
+  1. Frameworks: Node.js and .NetCore
   2. Databases and ORMs: MySql with Typeorm, SQL Server with EntityFramework and MongoDB with Mongoose
   3. Test: Jest with Node.js and xUnit with .NetCore
   4. Other Tools: Rx.Net, Mediator
