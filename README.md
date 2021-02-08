@@ -26,7 +26,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
 
 - 🔭 Currently working as **Software Engineer @Equiti Group**
 - 🌱 Currently learning **Microservices Architecture**
-- 📚 Currently Reading **.NetCore Microservices Architecture for Containerized .NetCore Applications** and looking at **Practical Recommender Systems** by Kim Falk
+- 📚 Currently Reading **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** by Bill Karwin
 - 👯 Ready to collaborate on open source/commercial projects
 - 💬 Here to ask me anything about **Web/Mobile Development**
 
@@ -42,11 +42,11 @@ My areas of Experience in Web and Mobile development, using those technologies t
   <tbody>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/fayona'>Fayona</a></td>
-      <td>A .NetCore like framework using NodeJs</td>
+      <td>A .NetCore like framework using Node.js</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/angular-buildozer'>Angular Buildozer</a></td>
-      <td>Production ready Angular boilerplate</td>
+      <td>Highly opinionated, Production ready Angular boilerplate</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/ngx-request-options'>Ngx-Request-Options</a></td>
