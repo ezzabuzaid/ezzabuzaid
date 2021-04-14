@@ -26,8 +26,9 @@ My areas of Experience in Web and Mobile development, using those technologies t
 
 - 🔭 Currently working as **Software Engineer @Equiti Group**
 - 🌱 Currently learning **Microservices Architecture**
-- 📚 Currently Reading **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** by Bill Karwin
-- 👯 Ready to collaborate on open source/commercial projects
+- 📚 Currently Reading **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** by **Bill Karwin and Practical Recommender Systems**
+by Kim Falk.
+- 👯 Ready to collaborate on open source/commercial projects.
 - 💬 Here to ask me anything about **Web/Mobile Development**
 
 
