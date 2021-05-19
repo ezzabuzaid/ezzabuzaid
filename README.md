@@ -41,9 +41,14 @@ by Kim Falk.
     </tr>
   </thead>
   <tbody>
+    https://github.com/ezzabuzaid/tiny-injector
+    <tr>
+      <td><a href='https://github.com/ezzabuzaid/tiny-injector'>Tiny Injector</a></td>
+      <td>Mix of .NetCore and Angular dependency injection</td>
+    </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/fayona'>Fayona</a></td>
-      <td>A .NetCore like framework using Node.js</td>
+      <td>.NetCore like framework using Node.js</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/angular-buildozer'>Angular Buildozer</a></td>
