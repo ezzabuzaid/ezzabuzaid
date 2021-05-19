@@ -41,7 +41,7 @@ by Kim Falk.
     </tr>
   </thead>
   <tbody>
-    https://github.com/ezzabuzaid/tiny-injector
+    
     <tr>
       <td><a href='https://github.com/ezzabuzaid/tiny-injector'>Tiny Injector</a></td>
       <td>Mix of .NetCore and Angular dependency injection</td>
