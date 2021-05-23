@@ -2,7 +2,9 @@
 
 I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-My areas of Experience in Web and Mobile development, using those technologies that I'm dealing with in a daily basis.
+I mainly develop using Angular, Node.js and .Net but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing or giving back to open-source community.
+
+My areas of Experience in Web and Mobile development.
 
 * Languages: JavaScript(TypeScript), C# and Dart
 * Back End
@@ -22,7 +24,7 @@ My areas of Experience in Web and Mobile development, using those technologies t
 * Cloud: Azure
 * Source Control: Github, Microsoft DevOps and BitBucket
 
-**And I'm**
+**Trivia**
 
 - 🔭 Currently working as **Software Engineer @Equiti Group**
 - 🌱 Currently learning **Microservices Architecture**
@@ -32,7 +34,7 @@ by Kim Falk.
 - 💬 Here to ask me anything about **Web/Mobile Development**
 
 
-<summary><b> My Projects: </b></summary>
+<summary><b> Open Source Projects: </b></summary>
 <table>
   <thead>
     <tr>
@@ -63,7 +65,7 @@ by Kim Falk.
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/document-storage'>Document storage</a></td>
-      <td>Javascript package that provides a unified interface for browser storages</td>
+      <td>JavaScript package that provides a unified interface for browser storages</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ezzabuzaid/form-validators'>Flutter Form validators</a></td>
