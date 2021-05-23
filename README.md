@@ -2,7 +2,7 @@
 
 I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-I mainly develop using Angular, Node.js and .Net but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing or giving back to open-source community.
+I mainly develop using Angular, Node.js and .Net but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing blog posts or giving back to open-source community.
 
 My areas of Experience in Web and Mobile development.
 
@@ -88,6 +88,7 @@ You might read
 * [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
 * [Angular Caching](https://dev.to/ezzabuzaid/angular-api-caching-2p12)
 * [JavaScript Compute like in Dart](https://dev.to/ezzabuzaid/javascript-dart-compute-2k2f)
+* [Using Inline Web Workers To Improve UI Performance](https://dev.to/ezzabuzaid/using-inline-web-workers-to-improve-ui-performance-540n)
 * [My Gists](https://gist.github.com/ezzabuzaid)
 
 ### 📫 Where to find me
