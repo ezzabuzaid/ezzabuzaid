@@ -2,27 +2,8 @@
 
 I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-I mainly develop using Angular, Node.js and .Net but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing blog posts or giving back to open-source community.
+I code JavaScript, C#, and Dart but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing blog posts or giving back to open-source community.
 
-My areas of Experience in Web and Mobile development.
-
-* Languages: JavaScript(TypeScript), C# and Dart
-* Back End
-  1. Frameworks: Node.js and .NetCore
-  2. Databases and ORMs: MySql with Typeorm, SQL Server with EntityFramework and MongoDB with Mongoose
-  3. Test: Jest with Node.js and xUnit with .NetCore
-  4. Other Tools: Rx.Net, Mediator
-* Front End
-  1. Frameworks: Typescript, Angular and a basic React knowledge
-  2. Test: Jasmine and Karma 
-  2. Other Tools: RxJs, Firebase, SCSS, Material design
-* Mobile
-  1. Dart-Flutter, [Rx.Dart](https://pub.dev/packages/rxdart), [Provider state management](https://pub.dev/packages/provider), Firebase, SQLite
-  3. Test: Dart-Test, Mockito
-  
-* Task Management: Jira and Microsoft DevOps
-* Cloud: Azure
-* Source Control: Github, Microsoft DevOps and BitBucket
 
 **Trivia**
 
