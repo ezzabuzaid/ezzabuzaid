@@ -9,8 +9,7 @@ I code JavaScript, C#, and Dart but would love to work with new languages and te
 
 - 🔭 Currently working as **Software Engineer @Equiti Group**
 - 🌱 Currently learning **Microservices Architecture**
-- 📚 Currently Reading **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** by **Bill Karwin and Practical Recommender Systems**
-by Kim Falk.
+- 📚 Currently reading **SQL Antipatterns: Avoiding the Pitfalls of Database Programming**
 - 👯 Ready to collaborate on open source/commercial projects.
 - 💬 Here to ask me anything about **Web/Mobile Development**
 
