@@ -66,6 +66,7 @@ I code JavaScript, C#, and Dart but would love to work with new languages and te
 You might read
 * [A Gentel Introduction to Test in Dart](https://github.com/ezzabuzaid/Flutter-Dart-Test-Session/blob/main/test_session.pdf)
 * [Angular Request Augmentation](https://dev.to/ezzabuzaid/angular-request-augmentation-2nd3)
+* [Advance Angular Dynamic Component](https://dev.to/this-is-angular/advance-angular-dynamic-component-12e)
 * [Angular Caching](https://dev.to/ezzabuzaid/angular-api-caching-2p12)
 * [JavaScript Compute like in Dart](https://dev.to/ezzabuzaid/javascript-dart-compute-2k2f)
 * [Using Inline Web Workers To Improve UI Performance](https://dev.to/ezzabuzaid/using-inline-web-workers-to-improve-ui-performance-540n)
