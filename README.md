@@ -6,9 +6,9 @@ I code JavaScript, C#, and Dart but would love to work with new languages and te
 
 
 **Technical Articles**
+* [React Context In Angular](https://dev.to/ezzabuzaid/react-context-in-angular-i4a)
 * [Advance Angular Dynamic Component](https://dev.to/this-is-angular/advance-angular-dynamic-component-12e)
 * [Using Inline Web Workers To Improve UI Performance](https://dev.to/ezzabuzaid/using-inline-web-workers-to-improve-ui-performance-540n)
-
 
 **Trivia**
 
