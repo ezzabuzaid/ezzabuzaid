@@ -32,7 +32,7 @@ I code JavaScript, C#, and Dart but would love to work with new languages and te
       <td>Mix of .NetCore and Angular dependency injection</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/ezzabuzaid/rfc-7807-problem-details'>Tiny Injector</a></td>
+      <td><a href='https://github.com/ezzabuzaid/rfc-7807-problem-details'>RFC 7870</a></td>
       <td>Typescript implementation of RFC 7870</td>
     </tr>
     <tr>
