@@ -2,7 +2,7 @@
 
 I'm **Ezz abuzaid** a Computer Engineer by specialization, Front End Engineer by profession, and an Engineer at heart.
 
-I code JavaScript, C#, and Dart but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing blog posts or giving back to open-source community.
+I code TypeScript, C#, and Dart but would love to work with new languages and technologies wherever an opportunity presents itself. I have a passion for sharing what I’ve learned either by writing blog posts or giving back to open-source community.
 
 
 **Technical Articles**
