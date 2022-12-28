@@ -11,6 +11,9 @@ I code TypeScript, C#, and Dart but would love to work with new languages and te
 * [Gentle Introduction To ESLint Rules](https://dev.to/this-is-learning/gentle-introduction-to-eslint-rules-4270)
 * [Using Inline Web Workers To Improve UI Performance](https://dev.to/ezzabuzaid/using-inline-web-workers-to-improve-ui-performance-540n)
 
+**Workshops**
+* [Introduction To Unit Testing](https://ezzabuzaid.github.io/Testing-Workshop/1)
+
 **Trivia**
 
 - 🔭 I'm working as **Software Engineer @Equiti Group**
