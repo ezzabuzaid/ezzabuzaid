@@ -6,9 +6,10 @@ I code TypeScript, C#, and Dart but would love to work with new languages and te
 
 
 **Technical Articles**
-* [React Context In Angular](https://dev.to/ezzabuzaid/react-context-in-angular-i4a)
-* [Advance Angular Dynamic Component](https://dev.to/this-is-angular/advance-angular-dynamic-component-12e)
-* [Gentle Introduction To ESLint Rules](https://dev.to/this-is-learning/gentle-introduction-to-eslint-rules-4270)
+* [Reactive Infinity Scroll](https://techtext.dev/posts/reactive-infinity-scroll)
+* [React Context In Angular](https://techtext.dev/posts/react-context-in-angular)
+* [Advance Angular Dynamic Component](https://techtext.dev/posts/advance-angular-dynamic-component)
+* [Gentle Introduction To ESLint Rules](https://techtext.dev/posts/gentle-introduction-to-eslint-rules)
 * [Using Inline Web Workers To Improve UI Performance](https://dev.to/ezzabuzaid/using-inline-web-workers-to-improve-ui-performance-540n)
 
 **Workshops**
