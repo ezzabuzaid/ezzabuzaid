@@ -9,6 +9,7 @@ I love writing and have in-depth disucssions, my ultimate goal beside programmin
 Sharing knowledge is a passion of mine, I do this by writing blog posts and helping newbies.
 
 **Technical Articles**
+* [Running Untrusted JavaScript Code](https://january.sh/posts/running-untrusted-javascript-code)
 * [Gentle Introduction To Typescript Compiler API](https://writer.sh/posts/gentle-introduction-to-typescript-compiler-api.md/)
 * [Reactive Infinity Scroll](https://writer.sh/posts/reactive-infinity-scroll)
 * [React Context In Angular](https://writer.sh/posts/react-context-in-angular)
@@ -23,9 +24,9 @@ Sharing knowledge is a passion of mine, I do this by writing blog posts and help
 
 - 🔭 I'm working as **Software Engineer @Equiti Group**
 - 🧬 I read about compilers occasionally.
-- 🌱 Currently building [Tiny Injector](https://github.com/ezzabuzaid/tiny-injector) and [SQL Tooling](https://github.com/ezzabuzaid/sql-tooling)
-- 📚 Currently reading **Design for Developers**
-- 👯 Ready to collaborate on open sourceopen-source💬 Here to answer your questions about **Web/Mobile Development**
+- 🌱 Currently building [January.sh](https://january.sh/) and [Serverize.sh](https://serverize.sh/)
+- 👯 Ready to collaborate on open sourceopen-source💬
+- Talk to me about Compilers, Developer tools and Backend Development
 
 **Open Source Projects**
 <table>
